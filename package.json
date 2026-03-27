@@ -1,0 +1,14 @@
+{
+  "name": "forecast-crowdsource-cli",
+  "version": "0.1.0",
+  "description": "Command line tool for submitting and managing crowd-sourced forecasts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
